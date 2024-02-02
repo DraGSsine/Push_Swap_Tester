@@ -10,4 +10,4 @@ Push Swap Tester is a Bash script designed to test the performance of your `push
 
 3. Run the tester script using the following command:
    
-./push_swap_fucke.sh
+  ./push_swap_fucker.sh
